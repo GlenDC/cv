@@ -56,8 +56,9 @@ __Code Combat__ Remote, Opensource developer (Web Technology)
 * HTML and CSS
 * Javascript
 
-## Additional Technical interests
+## Technical interests
 
+* Opensource Technology
 * Language Design
 * Compiler Design
 * Computer Architecture
