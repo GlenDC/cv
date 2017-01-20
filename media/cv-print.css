@@ -161,6 +161,11 @@ a:hover {
 	color:#39f
 }
 
+.noprint {
+	display: none;
+	visibility: hidden;
+}
+
 #webaddress {
  	margin-top: 0em;
 	position: relative;
