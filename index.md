@@ -52,7 +52,7 @@ __Nebula Cloud Services__ Nebula Cloud Services are the cloud services used for 
 [__L10n C#/Unity__](https://github.com/glendc/l10n.cs) An implementation of L10n in C#, Targeting the Unity Game Engine.
 
 `08/15-10/15`
-__Marlin Build System__ Not being happy of any of the existent Build Systems, we proposed and got the change to develop an MVP of a new kind of Build System. The goal was to keep it as minimal and flexible as possible. The scripting language of choice was Scheme and the core was written in Rust.
+__Marlin Build System__ Not being happy of any of the existent Build Systems, we proposed and got the chance to develop an MVP of a new kind of Build System. The goal was to keep it as minimal and flexible as possible. The scripting language of choice was Scheme and the core was written in Rust.
 
 `06/15-07/15`
 __Bake Escape @ Apple Watch__ Bake Escape is a match 3 iOS Game. This app was part of my R&D work for Exient on the Apple Watch. Pushing and hacking this device was quite fun. The capabilities exposed to developers are however limited, and making a pong game for the Apple Watch was the biggest game hack I ever did.
