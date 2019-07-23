@@ -20,7 +20,15 @@ I'm a Software Developer, from Belgium, working on various projects actively on 
 Living in Belgium again since 2018, while working as a Principal Software Engineer for ThreeFold Technology,
 a company which ambition it is to change the way internet as well as the banking system operates.
 The company is based in Ghent (Belgium) but has offices and partners all over the world.
-Here I work mostly in Go, python and lately Rust as well on blockchain-, cloud- and automation technology.
+Here I work mostly on blockchain-, cloud- and automation technology, using mostly Go and Python.
+Besides programming, I also manage, plan, design, support and most importantly educate fellow team members.
+
+I'm also studying (on the side) a bachelor in Mathematics, an exhausting journey experienced with great satisfaction.
+Currently still in my first year of that bachelor. Since begin of July I am also studying the data science
+track as offered by DataCamp.
+
+What I need to know, I'll know tomorrow if not already. Perseverance is my biggest asset.
+
 
 ## Employment
 
@@ -45,10 +53,11 @@ __Code Combat__ Remote, Opensource developer (Web Technology)
 [Rivine](https://github.com/threefoldtech/rivine) Blockchain Technology written in Go, the core of our blockchains. The
 only active blockchain currently is the [Threefold Chain](https://github.com/threefoldfoundation/tfchain), a blockchain
 backed by the capacity of the internet and hosting the tokens used to pay for that capacity as well the reservations
-and registrations of the capacity itself.
+and registrations of the capacity itself. [Gold Chain](https://github.com/nbh-digital/goldchain) is a blockchain
+currently still in development.
 
 `12/16-04/17`
-[__Go OpenAPI__](https://github.com/go-openapi) A Swagger / OpenAPI implemenation for Go. Very lightweight but deep integration into the go toolset for working with swagger definitions as the source of truth for an application.
+[__Go OpenAPI__](https://github.com/go-openapi) A Swagger / OpenAPI implementation for Go. Very lightweight but deep integration into the go toolset for working with swagger definitions as the source of truth for an application.
 
 `02/16-02/17`
 __Nebula Cloud Services__ Nebula Cloud Services are the cloud services used for Exient games that require online services. The services are written in Golang, and recently started using OpenAPI to describe the APIs. Clients are written in C#, Rust and C++. The services rely on AWS and k8s, among other (opensource) technology.
@@ -64,30 +73,30 @@ More Projects and my volunteering experiences can be found on [https://www.linke
 ## Technical skills
 
 * Golang
-* Rust
 * C/C++
+* Rust
+* R&D
+* Python
 * Blockchain Development
 * OS Primitives
 * Networking (between transport and application)
 * Backend Development (Golang/NodeJS)
 * Game (Engine) Development
-* R&D
-* Python
-* C#
-* Java
-* Objective-C and Swift
+* C#, Java, Objective-C and Swift
 * Functional Programming
-* Git / Perforce
+* Git, Perforce
 * Debian/Arch Linux, MacOS
 * HTML, CSS and JS
 
 ## Interests
 
 * Mathematics
+* Data Science (New)
 * Opensource Technology
 * Security
 * Language/Compiler Design
 * UX Design
+* World Citizen
 
 ## Links
 
@@ -101,4 +110,4 @@ References can be found on [https://www.linkedin.com/in/glendc](https://www.link
 
 <!-- ### Footer
 
-Last updated: January 2019 -->
+Last updated: July 2019 -->
